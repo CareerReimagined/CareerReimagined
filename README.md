@@ -11,3 +11,5 @@ Requires: Module Manager, Contract Configurator, Custom Barn Kit
 Recommended: ReStock / ReStock+ (for better-looking stock parts)
 
 Supports: Making History and Breaking Ground DLCs (parts integrate automatically)
+
+Drag CareerR folder into GameData folder
