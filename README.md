@@ -11,3 +11,5 @@ Requires: Module Manager, Contract Configurator, Custom Barn Kit
 Supports: Making History and Breaking Ground DLCs, ReStock / ReStock+
 
 Drag CareerR folder into GameData folder
+
+World Firsts give too much money. Make sure to change settings for balanced funding. When starting a new save: 1. Pick the "Career" mode (not Science or Sandbox) 2. On the difficulty selection screen, choose Custom (or modify an existing preset) 3. Set FundsGainMultiplier to 0.1 (10%) 4. Set ScienceGainMultiplier to 0.1 (10%) 5. Other settings can be whatever you prefer
